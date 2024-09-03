@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "golang.go",
+        "zaaack.markdown-editor",
+        "redhat.vscode-yaml",
+        "vstirbu.vscode-mermaid-preview"
+    ]
+}
